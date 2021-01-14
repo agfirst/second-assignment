@@ -64,3 +64,6 @@ header{
     letter-spacing: 3px;
     line-height: 30px;
 }
+.shadow img{
+    padding: 14px;
+}
