@@ -67,3 +67,11 @@ header{
 .shadow img{
     padding: 14px;
 }
+.give-info{
+    background-color: #f6f3f0;
+    color: blueviolet;
+    text-shadow: 2px 3px 5px green;
+    letter-spacing: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
