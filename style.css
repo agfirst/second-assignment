@@ -1,0 +1,66 @@
+header{
+    background-color: #fff7e8;
+}
+
+.navbar a{
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.navbar-nav{
+    margin-left: 400px;
+}
+
+.shopping-cart{
+    height: 40px;
+}
+.btn-success{
+    border-radius: 20px;
+}
+
+.first-h1{
+    color: orange;
+    font-weight: bold;
+    font-size: 55px;
+}
+.second-h1{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 55px;
+}
+.first-h4{
+    font-size: 40px;
+}
+.woman-jacket{
+    font-weight: bold;
+    font-size: 40px;
+    color: #3d3a5d;
+}
+.WOMAN{
+    height: 400px;
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-radius: 30px;
+    background-color: #e7e7e7;
+}
+
+.JACKET img{
+    height: 350px;
+}
+
+.card-body h3{
+    color: #3d3a5d;
+}
+
+.last-img img{
+    height: 100px;
+}
+
+.shadow-img{
+    height: 50px;
+}
+.text-dark{
+    letter-spacing: 3px;
+    line-height: 30px;
+}
